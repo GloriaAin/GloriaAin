@@ -18,6 +18,7 @@
        
   <img src="https://img.shields.io/badge/kotlin-E06C42?style=for-the-badge&logo=kotlin&logoColor=white">
   <img src="https://img.shields.io/badge/java-F89917?style=for-the-badge&logo=java&logoColor=white">  
+  <img src="https://img.shields.io/badge/go-64D7E9?style=for-the-badge&logo=go&logoColor=white">  
   <br>
        
        📧 op@ktain.xyz
